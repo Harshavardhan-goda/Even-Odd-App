@@ -1,0 +1,29 @@
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  width: 40%;
+  align-self: center;
+  padding: 30px;
+  text-align: center;
+  border-radius: 15px;
+}
+.paragraph {
+  font-size: 20px;
+  color: #334155;
+}
+.button {
+  background-color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+  color: #334155;
+}
+.paragraph1 {
+  color: #334155;
+}
